@@ -6,6 +6,14 @@ The latest official builds can be downloaded from [Prusa Drivers](https://www.pr
 
 The firmware for the Original Prusa i3 printers is proudly based on [Marlin 1.0.x](https://github.com/MarlinFirmware/Marlin/) by Scott Lahteine (@thinkyhead) et al. and is distributed under the terms of the [GNU GPL 3 license](LICENSE).
 
+# Modifications to the Upstream Firmware
+
+The modified firmware includes the following modifications:
+
+* Support for Slice Engineering thermistor
+* Fixes scrambled character on LCD
+* Customized Configuration_prusa.h for MK3S
+
 
 # Table of contents
 
